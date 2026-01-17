@@ -6,7 +6,7 @@ This includes data cleaning, EDA, training and Model optimization and model depl
 
 Required Files 
 
-- All Python .py files and run files accordingly following the order - OESON, EDA, train and Deploy to follow ML pipeline. 
+- All Python .py files and run files accordingly following the order - OESON, EDA, train and Deploy to follow the ML pipeline. 
 - Download all required libraries and packages in requirements.txt
 - Inital dataset - Global_Temp.csv file
   
